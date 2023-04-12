@@ -5,3 +5,11 @@ Here's a sentence with a footnote. [^1]
 [^1]: This is the footnote.
 
 #[mothers near you!](google.com)
+
+```
+{
+  "firstName": "Javani",
+  "lastName": "Syvixay",
+  "age": 25
+}
+```
