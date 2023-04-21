@@ -1,5 +1,5 @@
 body {
-	font: bold 11px/1.5em Verdana;
+	font: bold 11px/1.5em comic-sans;
 	}
 	
 h1 {
@@ -7,7 +7,7 @@ h1 {
 	font-size:16px;
 	font-weight:bold;
 	margin:4px;
-	padding:90px;
+	padding: 20px;
 	}
 
 hr {
@@ -40,7 +40,7 @@ hr {
 #tabs a {
 	float:left;
 	background:url("tableft.gif") no-repeat left top;
-	margin:0;
+	margin:1px;
 	padding:0 0 0 4px;
 	text-decoration:none;
 	}
