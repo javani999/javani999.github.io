@@ -1,3 +1,10 @@
+Header {
+	font-family: 'Tangerine', serif;
+	font-size: 48px;
+	text-shadow: 4px 4px 4px #aaa;
+  }
+  
+
 body {
 	font: bold 11px/1.5em comic-sans;
 	background-color: beige;
@@ -5,17 +12,15 @@ body {
 	}
 	
 h1 {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-family:shadows-into-light-two, Arial, Helvetica, sans-serif;
 	font-size:32px;
 	font-weight:bold;
 	margin:4px;
 	padding: 20px;
-	font-family: "shadows_into_light", Verdana, Geneva, Tahoma, sans-serif;
-
 	}
 
 h2 {
-	font-family: "shadows_into_light", Verdana, Geneva, Tahoma, sans-serif;
+	font-family: "shadows-into-light-two", Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 24px;
 	padding: 20px;
 }
