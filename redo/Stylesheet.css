@@ -6,14 +6,18 @@ body {
 	
 h1 {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:16px;
+	font-size:32px;
 	font-weight:bold;
 	margin:4px;
 	padding: 20px;
+	font-family: "shadows_into_light", Verdana, Geneva, Tahoma, sans-serif;
+
 	}
 
-img {
-	padding: 10px;
+h2 {
+	font-family: "shadows_into_light", Verdana, Geneva, Tahoma, sans-serif;
+	font-size: :24px;
+	padding: 20px;
 }
 
 hr {
