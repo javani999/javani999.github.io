@@ -2,8 +2,14 @@ Header {
 	font-family: 'Tangerine', serif;
 	font-size: 48px;
 	text-shadow: 4px 4px 4px #aaa;
-	margin-top: 20px;
+	margin-top: auto;
   }
+
+body {
+	font: bold 11px/1.5em comic-sans;
+	background-color: hsl(41, 62%, 73%);
+	font-family: "shadows_into_light", Verdana, Geneva, Tahoma, sans-serif;
+	}
 	
 
 h1 {
