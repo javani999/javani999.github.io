@@ -16,7 +16,7 @@ h1 {
 
 h2 {
 	font-family: "shadows_into_light", Verdana, Geneva, Tahoma, sans-serif;
-	font-size: :24px;
+	font-size: 24px;
 	padding: 20px;
 }
 
@@ -27,7 +27,7 @@ hr {
 	margin-bottom:25px;
 	}
 	
-#tabs {
+tabs {
 	float:left;
 	width:100%;
 	font-size:93%;
@@ -35,19 +35,19 @@ hr {
 	border-bottom:1px solid #84776B;
 	}
 	
-#tabs ul {
+tabs ul {
 	margin: 20px;;
 	padding:10px 10px 1px 50px;
 	list-style:none;
 	}
 	
-#tabs li {
+tabs li {
 	display:inline;
 	margin:0;
 	padding:0;
 	}
 	
-#tabs a {
+tabs a {
 	float:left;
 	background:url("tableft.gif") no-repeat left top;
 	margin:1px;
@@ -55,7 +55,7 @@ hr {
 	text-decoration:none;
 	}
 	
-#tabs a span {
+tabs a span {
 	float:left;
 	display:block;
 	background:url("tabright.gif") no-repeat right top;
