@@ -2,7 +2,7 @@ Header {
 	font-family: 'Tangerine', serif;
 	font-size: 48px;
 	text-shadow: 4px 4px 4px #aaa;
-	margin-bottom: auto;
+	margin-top: auto;
   }
   
 
@@ -12,6 +12,7 @@ body {
 	font-family: "shadows_into_light", Verdana, Geneva, Tahoma, sans-serif;
 	}
 	
+
 h1 {
 	font-family:"shadowsintolighttwo", Arial, Helvetica, sans-serif;
 	font-size:32px;
