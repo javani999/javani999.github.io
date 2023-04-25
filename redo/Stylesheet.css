@@ -8,7 +8,7 @@ Header {
 body {
 	font: bold 11px/1.5em comic-sans;
 	background-color: hwb(40 78% 5%);
-	font-family: "shadows_into_light", Verdana, Geneva, Tahoma, sans-serif;
+	font-family: "shadows-into-light", Verdana, Geneva, Tahoma, sans-serif;
 	}
 	
 
@@ -32,7 +32,7 @@ h2 {
 
 hr {
 	border:none;
-	border-top:1px solid #000000;
+	border-top:1px solid #003b12bd;
 	height:1px;
 	margin-bottom:25px;
 	}
