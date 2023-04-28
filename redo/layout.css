@@ -1,5 +1,5 @@
 html,body{margin:10;padding:5}
-body{font: 76% shadowsintolighttwo,tangerine;text-align:center}
+body{font: 76% 'shadowsintolighttwo','tangerine';text-align:center}
 p{margin:0 10px 10px}
 a{padding:5px; text-decoration:none; color:#000000;}
 div#header{background-color:#F3F2ED;}
